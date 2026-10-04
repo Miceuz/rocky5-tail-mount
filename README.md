@@ -1,6 +1,6 @@
 # Pilotix Rocky5 tail mount
 
-TPU tail mount for the Pilotix Rocky5 5" frame: 5.8 GHz antenna on a 2-hole flange SMA pigtail (MGS 7813 style, M2 at 12.3 mm) plus a 25x25 mm GPS module (Norduva GPS v3.0.5, patch up).
+TPU tail mount for the Pilotix Rocky5 5" frame: 5.8 GHz antenna on a 2-hole flange SMA pigtail (MGS 7813 style, M2 at 12.3 mm) plus a 25x25 mm GPS module (Elarion GPS v3.0.5, patch up).
 
 Slides over the two tail standoffs (5 mm round, 26 mm c-c) and is trapped by the top plate.
 

@@ -1,4 +1,4 @@
-// Pilotix Rocky5 tail mount: SMA 2-hole flange (MGS 7813 style) + Norduva GPS module v3.0.5
+// Pilotix Rocky5 tail mount: SMA 2-hole flange (MGS 7813 style) + Elarion GPS module v3.0.5
 // Print in TPU 95A.
 // Coordinates: X across frame, +Y forward, Z up.
 // Origin: midpoint between the two tail standoff centres, z=0 = underside of top plate.

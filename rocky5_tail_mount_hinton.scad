@@ -19,7 +19,7 @@
 //          Mounts/Multi-rotor/SMA-Standoff-Mount.scad  v4.0
 // MODIFIED 2026-10-04: merged into one part (SMA platform hangs off the GPS box
 //          rear edge), added 2-hole flange SMA seat, nobs made optional,
-//          round standoff bores, defaults set for Pilotix Rocky5 + Norduva GPS module v3.0.5.
+//          round standoff bores, defaults set for Pilotix Rocky5 + Elarion GPS module v3.0.5.
 // Coordinates: z=0 bottom plate, z=standoff_height underside of top plate, +Y = rearward.
 // =============================================================================
 
